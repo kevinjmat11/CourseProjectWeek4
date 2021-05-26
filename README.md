@@ -1,4 +1,4 @@
-# CourseProjectWeek4Getting and Cleaning Data Project
+#Getting and Cleaning Data Project
 
 Goal of the Project
 1. A tidy data set
